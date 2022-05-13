@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2022 Zvi Rosen.'
     license:
       enable: true
       allow_derivatives: false
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'May 13, 2022'
+  time_format: '5:16 PM'
   address_format: en-us
 
 # Site features
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/zvihr/starter-hugo-academic'
     content_dir: content
     branch: master
   avatar:
